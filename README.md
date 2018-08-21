@@ -1,3 +1,8 @@
-# geoplot-data
+## About the geoplot package
 
-This repository archives the raw data files used by the geoplot examples and documentation. It is distributed via Quilt. See `CONTRIBUTING.md` in the `geoplot` repository for more information.
+`geoplot` is a Python package which provides a variety of easy-to-use and expressive geospatial data visualizations to the user. To learn more about `geoplot` see [its repository on GitHub](https://github.com/ResidentMario/geoplot).
+
+
+## About this datapackage
+
+This datapackage contains the example data included in the `geoplot` [documentation](https://residentmario.github.io/geoplot/index.html). It is meant to help users get started with `geoplot` easily.
